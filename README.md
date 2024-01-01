@@ -1,10 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9D9ED2&width=100&height=80&section=header&text=&animation=twinkling" />
-  <div align="right">
-      <img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=65&pause=1000&color=9D9ED2FF&width=700&height=120&lines=Hello+I'm+tata-v+%F0%9F%90%BE" alt="Typing SVG" />
-  </div>
-  <div align="right">
-      <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=45&pause=1000&color=9D9ED2FF&width=700&height=60&lines=frontend+developer" alt="Typing SVG" />
+  <div align="right">
+      <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=60&pause=1000&color=9D9ED2FF&width=700&height=90&lines=Hello+I'm+tata-v" alt="Typing SVG" />
   </div>
 </div>
 
