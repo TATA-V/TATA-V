@@ -7,7 +7,7 @@
 
 <br>
 
-<h2>About me 🐾</h2> 
+<h2>About me 🌿</h2> 
 
 ### [![Velog](https://img.shields.io/badge/TECH_BLOG-B2C48A?style=for-the-badge)](https://velog.io/@tata-v_vlelog)
 
