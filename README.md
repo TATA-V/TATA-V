@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D9ED2&width=100&height=80&section=header&text=&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B2C48A&width=100&height=80&section=header&text=&animation=twinkling" />
   <div align="center">
-      <img align="center" src="https://readme-typing-svg.demolab.com?font=Salsa&size=60&pause=1000&color=9D9ED2FF&width=450&height=120&lines=Hello+I'm+tata-v" alt="Typing SVG" />
+      <img align="center" src="https://readme-typing-svg.demolab.com?font=Salsa&size=60&pause=1000&color=B2C48A&width=450&height=120&lines=Hello+I'm+tata-v" alt="Typing SVG" />
   </div>
 </div>
 
@@ -9,7 +9,7 @@
 
 <h2>About me 🐾</h2> 
 
-### [![Velog](https://img.shields.io/badge/TECH_BLOG-948EC6?style=for-the-badge)](https://velog.io/@tata-v_vlelog)
+### [![Velog](https://img.shields.io/badge/TECH_BLOG-B2C48A?style=for-the-badge)](https://velog.io/@tata-v_vlelog)
 
 
 <h3>Things I code with</h3> 
