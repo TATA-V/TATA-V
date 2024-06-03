@@ -13,5 +13,11 @@
 
 
 <h3>Things I code with</h3> 
+<span>
+<img src="https://img.shields.io/badge/javascript-61DAFB?style=for-the-badge&logo=javascript&logoColor=white&color=79855A"/>
+<img src="https://img.shields.io/badge/TypeScript-3578E5?style=for-the-badge&logo=TypeScript&logoColor=white&color=606C41"/>
+<img src="https://img.shields.io/badge/React-DB7093?style=for-the-badge&logo=React&logoColor=white&color=5B6241"/>
+<img src="https://img.shields.io/badge/Node.js-F7DF1E?style=for-the-badge&logo=Node.js&logoColor=white&color=48523A" />
+<img src="https://img.shields.io/badge/vercel-593d88?style=for-the-badge&logo=vercel&logoColor=white&color=35412C"/>
+</span>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
