@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B2C48A&width=100&height=80&section=header&text=&animation=twinkling" />
-  <div align="center">
-      <img align="center" src="https://readme-typing-svg.demolab.com?font=Salsa&size=60&pause=1000&color=B2C48A&width=450&height=120&lines=Hello+I'm+tata-v" alt="Typing SVG" />
-  </div>
+  <img src="https://github.com/user-attachments/assets/aff8da2b-42f6-4ac9-a171-7f45eaf4b3f0" alt="bg" width="100%">
 </div>
-
-<br>
 
 <h2>About me 🌿</h2> 
 
