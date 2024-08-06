@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7413b244-8571-44c5-9824-ff081bb60aa0" alt="banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/8172098e-719d-47b1-95af-a9fdad54c8a8" alt="banner" width="100%">
 </div>
-
 
 
 <h2>About me 🌿</h2> 
