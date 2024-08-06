@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/aff8da2b-42f6-4ac9-a171-7f45eaf4b3f0" alt="bg" width="100%">
+  <img src="https://github.com/user-attachments/assets/7413b244-8571-44c5-9824-ff081bb60aa0" alt="banner" width="100%">
 </div>
+
+
 
 <h2>About me 🌿</h2> 
 
