@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/vercel-593d88?style=for-the-badge&logo=vercel&logoColor=white&color=5F7274"/>
 </span>
 
-<h3>🌱 My stars</h3>
+<h3>🌱 My stats</h3>
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
