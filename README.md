@@ -17,3 +17,13 @@
 <img src="https://img.shields.io/badge/vercel-593d88?style=for-the-badge&logo=vercel&logoColor=white&color=5F7274"/>
 </span>
 
+<h3>🌱 My stars</h3>
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=TATA-V&show_icons=true&theme=material-palenight&hide_border=true&bg_color=2D2A1E&icon_color=81D770&text_color=fff&title_color=81D770&count_private=true" width=48% />
+  </a>
+  <a>
+    <img width= "51%" src="https://github-readme-streak-stats.herokuapp.com/?user=TATA-V&text=81D770&ring=81D770&fire=81D770&currStreakLabel=81D770&currStreakNum=81D770&dates=fff&sideNums=81D770&background=2D2A1E&sideLabels=81D770&dates_color=fff&hide_border=true" alt="TATA-V" />
+  </a>
+</div>
