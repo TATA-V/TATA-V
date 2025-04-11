@@ -2,7 +2,6 @@
   <img src="https://github.com/user-attachments/assets/8172098e-719d-47b1-95af-a9fdad54c8a8" alt="banner" width="100%">
 </div>
 
-
 <h2>About me 🌿</h2> 
 
 ### [![Velog](https://img.shields.io/badge/TECH_BLOG-B2C48A?style=for-the-badge)](https://velog.io/@tata-v_vlelog)
@@ -27,3 +26,7 @@
     <img width= "51%" src="https://github-readme-streak-stats.herokuapp.com/?user=TATA-V&text=81D770&ring=81D770&fire=81D770&currStreakLabel=81D770&currStreakNum=81D770&dates=fff&sideNums=81D770&background=2D2A1E&sideLabels=81D770&dates_color=fff&hide_border=true" alt="TATA-V" />
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=TATA-V&color=B2C48A" />
+
+
